@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I am a passionate and dedicated Machine Learning engineer with expertise in Data Science, Deep Learning, Computer Vision, NLP, and Generative AI. <br>Throughout my journey, I have developed and deployed innovative machine learning models to solve complex problems. I am fascinated by AI's practical applications and have focused on developing intelligent systems that adapt seamlessly to real-world situations, including AI-powered automation and predictive analytics.
+I am a passionate and dedicated Machine Learning engineer with expertise in Data Science, Deep Learning, Computer Vision, NLP, and Generative AI.Throughout my journey, I have developed and deployed innovative machine learning models to solve complex problems. I am fascinated by AI's practical applications and have focused on developing intelligent systems that adapt seamlessly to real-world situations, including AI-powered automation and predictive analytics.
 
 
 ## 🌐 Socials:
