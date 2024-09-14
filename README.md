@@ -29,6 +29,9 @@ I am a passionate and dedicated Machine Learning engineer with expertise in Data
 
 
 <h3 align="left">Languages and Tools:</h3>
+openAI
+Langchain
+Huggingface
 
 
 
