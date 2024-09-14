@@ -29,7 +29,7 @@ I am a passionate and dedicated Machine Learning engineer with expertise in Data
 
 
 <h3 align="left">Languages and Tools:</h3>
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
 
 
 
