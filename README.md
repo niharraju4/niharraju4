@@ -29,11 +29,6 @@ I am a passionate and dedicated Machine Learning engineer with expertise in Data
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![OpenAI](https://img.shields.io/badge/OpenAI-API-blue?logo=openai)](https://openai.com/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?logo=huggingface)](https://huggingface.co/)
-[![LangChain](https://img.shields.io/badge/LangChain-Libraries-orange?logo=langchain)](https://www.langchain.com/)
-
-
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-blue?logo=openai&style=for-the-badge)](https://openai.com/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?logo=huggingface&style=for-the-badge)](https://huggingface.co/)
 [![LangChain](https://img.shields.io/badge/LangChain-Libraries-orange?logo=langchain&style=for-the-badge)](https://www.langchain.com/)
