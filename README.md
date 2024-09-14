@@ -29,6 +29,8 @@ I am a passionate and dedicated Machine Learning engineer with expertise in Data
 
 
 <h3 align="left">Languages and Tools:</h3>
+![OpenAI Logo _ SVG _ Real Company _ Alphabet, Letter O Logo](https://github.com/user-attachments/assets/375530d9-d270-4260-86c8-a9019c953660)
+
 
 
 # 📊 GitHub Stats:
