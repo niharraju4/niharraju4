@@ -33,6 +33,9 @@ Langchain
 Huggingface
 
 
+[![OpenAI](https://img.shields.io/badge/OpenAI-API-blue?logo=openai)](https://openai.com/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?logo=huggingface)](https://huggingface.co/)
+[![LangChain](https://img.shields.io/badge/LangChain-Libraries-orange?logo=langchain)](https://www.langchain.com/)
 
 
 
