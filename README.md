@@ -20,6 +20,8 @@ I am a passionate and dedicated Machine Learning engineer with expertise in Data
 
 
 ## 🌐 Socials:
+![Author](https://img.shields.io/badge/Author-Nihar%20M-blue)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nihar-muniraju-a02132ba) 
 
 # 💻 Tech Stack:
