@@ -28,8 +28,6 @@ I am a passionate and dedicated Machine Learning engineer with expertise in Data
 
 
 <h3 align="left">Languages and Tools:</h3>
-![openai-icon-2021x2048-4rpe5x7n](https://github.com/user-attachments/assets/700a1d98-d046-423f-a964-ad7659e1c909)
-
 openAI
 Langchain
 Huggingface
