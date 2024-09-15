@@ -34,6 +34,8 @@ I am a passionate and dedicated Machine Learning engineer with expertise in Data
 ![](https://github-readme-streak-stats.herokuapp.com/?user=niharraju4&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niharraju4&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+| ![Profile Stats](https://github-readme-stats.vercel.app/api?username=niharraju4&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=niharraju4&theme=ambient_gradient&hide_border=false) |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
 ### 🔝 Top Contributed Repo
