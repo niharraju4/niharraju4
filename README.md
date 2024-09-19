@@ -36,8 +36,7 @@ I am a passionate and dedicated Machine Learning engineer with expertise in Data
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=niharraju4&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=niharraju4)](https://github.com/niharraju4/github-contribution-stats/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=niharraju4&icon=0&color=0)](https://visitcount.itsvg.in)
