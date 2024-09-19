@@ -38,7 +38,7 @@ I am a passionate and dedicated Machine Learning engineer with expertise in Data
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=niharraju4)](https://github.com/niharraju4/github-contribution-stats/)
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=niharraju4&limit=5&theme=dark)
+
 
 
 ---
