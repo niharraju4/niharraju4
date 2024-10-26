@@ -17,9 +17,6 @@ I am a passionate and dedicated Machine Learning engineer with expertise in Data
 ![](https://github-readme-streak-stats.herokuapp.com/?user=niharraju4&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niharraju4&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📈 GitHub Activity Overview:
-[![Nihar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=niharraju4&theme=react-dark&bg_color=20232A&color=61dafb&line=00C853&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 # 📊 Contribution Stats:
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=niharraju4)](https://github.com/niharraju4/github-contribution-stats/)
 
