@@ -20,7 +20,8 @@ I am a passionate and dedicated Machine Learning engineer with expertise in Data
 
 
 ## 🌐 Socials:
-![Author](https://img.shields.io/badge/Author-Nihar%20Muniraju-blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nihar-muniraju-a02132ba) [![Kaggle](https://img.shields.io/badge/Kaggle-%2306B6D4%20to%2300C853?logo=kaggle&logoColor=white&style=for-the-badge&labelColor=20BEFF)](https://www.kaggle.com/niharraju4)
+![Author](https://img.shields.io/badge/Author-Nihar%20Muniraju-blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nihar-muniraju-a02132ba) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/niharraju4)
+
 
 
 # 💻 Tech Stack:
