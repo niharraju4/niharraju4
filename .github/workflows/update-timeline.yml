@@ -19,18 +19,23 @@ jobs:
 
       - name: Install dependencies
         run: |
+          set -x  # Enable debug logging
           pip install pandas
-
+      
       - name: Fetch Study Timetable from Google Sheets
         run: |
+          set -x
           curl -o timetable.csv "${{ secrets.GOOGLE_SHEET_CSV_LINK }}"
+          cat timetable.csv  # Display the contents of the CSV file for debugging
 
       - name: Update README
         run: |
+          set -x
           python update_readme.py
-
+      
       - name: Commit and push changes
         run: |
+          set -x
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
           git add README.md
