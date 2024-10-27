@@ -1,6 +1,7 @@
 name: Update Study Timetable
 
 on:
+  workflow_dispatch:  # Allows you to manually trigger the workflow
   schedule:
     - cron: "0 0 * * 1" # Runs every Monday at midnight (UTC)
 
