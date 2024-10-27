@@ -26,3 +26,10 @@ I am a passionate and dedicated Machine Learning engineer with expertise in Data
 - [Introduction to Large Language Models - Coursera](https://coursera.org/verify/FQ6SZF8EOMH6)
 - [Python for Beginners - OpenCV](https://opencv.org)
 - [Transformer Models and BERT Model - Coursera](https://coursera.org/verify/GOPLYEPOYDSE)
+
+- ## 📅 Study Timetable (Auto-Updated Weekly)
+
+| Index | Course       | Timeline      | Notes                  |
+|-------|--------------|---------------|------------------------|
+|       |              |               |                        |
+
