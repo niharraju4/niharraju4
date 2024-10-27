@@ -20,8 +20,8 @@ jobs:
       - name: Install dependencies
         run: |
           set -x  # Enable debug logging
-          pip install pandas
-          pip show pandas  # Verify installation of pandas
+          pip install pandas tabulate  # Install both pandas and tabulate
+          pip show pandas tabulate  # Verify installation of pandas and tabulate
 
       - name: Fetch Study Timetable from Google Sheets
         run: |
