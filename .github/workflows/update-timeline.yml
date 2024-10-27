@@ -12,6 +12,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Use the latest Python 3 version
+
+      - name: Install dependencies
+        run: |
+          pip install pandas
+
       - name: Fetch Study Timetable from Google Sheets
         run: |
           curl -o timetable.csv "${{ secrets.GOOGLE_SHEET_CSV_LINK }}"
