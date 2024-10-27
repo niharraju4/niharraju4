@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Updated to v3
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v3  # Updated to v3
         with:
-          python-version: '3.x'  # Use the latest Python 3 version
+          python-version: '3.x'
 
       - name: Install dependencies
         run: |
