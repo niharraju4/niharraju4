@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3  # Updated to v3
 
       - name: Set up Python
-        uses: actions/setup-python@v3  # Updated to v3
+        uses: actions/setup-python@v3
         with:
           python-version: '3.x'
 
@@ -21,18 +21,20 @@ jobs:
         run: |
           set -x  # Enable debug logging
           pip install pandas
-      
+          pip show pandas  # Verify installation of pandas
+
       - name: Fetch Study Timetable from Google Sheets
         run: |
           set -x
           curl -o timetable.csv "${{ secrets.GOOGLE_SHEET_CSV_LINK }}"
-          cat timetable.csv  # Display the contents of the CSV file for debugging
+          echo "Contents of timetable.csv:"
+          cat timetable.csv  # Display contents of the CSV file for debugging
 
       - name: Update README
         run: |
           set -x
           python update_readme.py
-      
+
       - name: Commit and push changes
         run: |
           set -x
