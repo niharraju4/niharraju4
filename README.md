@@ -8,10 +8,6 @@
 I am a passionate and dedicated Machine Learning engineer with expertise in Data Science, Deep Learning, Computer Vision, NLP, and Generative AI. Throughout my journey, I have developed and deployed innovative machine learning models to solve complex problems. I am fascinated by AI's practical applications and have focused on developing intelligent systems that adapt seamlessly to real-world situations, including AI-powered automation and predictive analytics.
 
 ## 🌐 Socials:
-![Author](https://img.shields.io/badge/Author-Nihar%20Muniraju-blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nihar-muniraju-a02132ba) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/niharraju4) [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@niharmuniraju4) [![LeetCode](https://img.shields.io/badge/LeetCode-%2300A67E.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/NiharMuniraju/)
-
-
-
 [![Author](https://img.shields.io/badge/Author-Nihar%20Muniraju-4c8bf5?style=for-the-badge)](https://in.linkedin.com/in/nihar-muniraju-a02132ba) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nihar-muniraju-a02132ba)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/niharraju4) 
